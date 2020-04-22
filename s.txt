@@ -8,8 +8,3 @@ sdfsdfs
 444
 
 555
-----------------------
-
-feature
-
-another feature
